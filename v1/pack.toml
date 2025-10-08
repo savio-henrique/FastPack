@@ -1,0 +1,13 @@
+name = "Fast Pack"
+author = "Hokusai"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "da8f2ead55fd8283c5365311f1247d11a46183d0889d7b5230fe38dc72d19925"
+
+[versions]
+fabric = "0.17.2"
+minecraft = "1.21.9"

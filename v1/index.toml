@@ -1,0 +1,34 @@
+hash-format = "sha256"
+
+[[files]]
+file = "flake.lock"
+hash = "4dc61245463ff8c2e9c5f128eaebe7c57557eca0e6a5370459561a11b921b104"
+
+[[files]]
+file = "flake.nix"
+hash = "72d158bfa97ad50c17507b65b8455433bbd82e576c6732c3b969ef7ec4f3bf21"
+
+[[files]]
+file = "mods/chunky.pw.toml"
+hash = "64badefe03082699f587274a31d1f0793583a4d88aac8ea2226162f80783fb52"
+metafile = true
+
+[[files]]
+file = "mods/fabric-api.pw.toml"
+hash = "48a71da0cd96100ccc239fa88fb6280094f0a0b1a555a2bdcc2e58dc2d7ebcc5"
+metafile = true
+
+[[files]]
+file = "mods/ferrite-core.pw.toml"
+hash = "fbf9806c22ee5bccbe08f7dec15b742f5ae3a70caf186d6dce0d42f28790f559"
+metafile = true
+
+[[files]]
+file = "mods/krypton.pw.toml"
+hash = "8f6e0157b42ba668c0ba9aa7eff94b3b91a8f58bcd357e574d70a7b160d4337c"
+metafile = true
+
+[[files]]
+file = "mods/lithium.pw.toml"
+hash = "9eb0ad2cd0e409ea588069d7458f4cf2c705ecf71599e06dfe780b13de0013c6"
+metafile = true
