@@ -1,14 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = "flake.lock"
-hash = "4dc61245463ff8c2e9c5f128eaebe7c57557eca0e6a5370459561a11b921b104"
-
-[[files]]
-file = "flake.nix"
-hash = "72d158bfa97ad50c17507b65b8455433bbd82e576c6732c3b969ef7ec4f3bf21"
-
-[[files]]
 file = "mods/chunky.pw.toml"
 hash = "64badefe03082699f587274a31d1f0793583a4d88aac8ea2226162f80783fb52"
 metafile = true
